@@ -1,0 +1,11 @@
+#musicheader {
+    letter-spacing: 7px
+}
+
+#regImg {
+    background-image: url('images/eminem.jpg');
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-size: cover;
+    background-position-x: left;
+}

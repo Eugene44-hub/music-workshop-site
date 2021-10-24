@@ -1,0 +1,16 @@
+#musicheader,
+#new {
+    letter-spacing: 6px
+}
+
+.newsletter {
+    height: 500px;
+}
+
+#eminemBack {
+    background-image: url('images/eminem.jpg');
+    background-repeat: no-repeat;
+    /* background-size: ; */
+    background-position-y: center;
+    background-position-x: right;
+}
